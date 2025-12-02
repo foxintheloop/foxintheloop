@@ -6,9 +6,9 @@ Currently at Deloitte designing enterprise finance agents and LLM evaluation fra
 
 ## What I Build
 
-**[ReasonForge](https://github.com/foxintheloop/ReasonForge)** — Neurosymbolic MCP server bridging LLM reasoning with symbolic computation. Because LLMs shouldn't hallucinate on math.
+**[ReasonForge](https://github.com/foxintheloop/ReasonForge)** - Modular mathematics toolkit for LLMs. 111 tools across 7 domain-specific MCP servers. Exact computation, zero hallucinations.
 
-**Production AI Systems** — Agentic architectures, multi-hop RAG pipelines, LLM-as-a-Judge evaluation tools. From POC to deployment.
+**Production AI Systems** - Agentic architectures, multi-hop RAG pipelines, LLM-as-a-Judge evaluation tools. From POC to deployment.
 
 ## Recent Work
 
