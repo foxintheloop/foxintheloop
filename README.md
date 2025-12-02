@@ -27,6 +27,4 @@ Certifications: Azure Data Scientist, Databricks LLM, IBM Data Science
 
 ---
 
-**Open to senior AI/ML engineering roles** — particularly interested in agentic systems and applied LLM research.
-
 [LinkedIn](https://www.linkedin.com/in/fox-derek/) · [Medium](https://medium.com/@fox-derek)
