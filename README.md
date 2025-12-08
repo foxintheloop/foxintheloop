@@ -12,7 +12,7 @@ Currently at Deloitte designing enterprise finance agents and LLM evaluation fra
 
 ## Recent Work
 
-- Built evaluation framework that cut functional testing time by 90%
+- Built LLM-as-a-Judge evaluation framework that cut functional testing time by 90%
 - Architected finance agents on Google Gemini Agentspace
 - Developed lead routing engine combining ranking, ensemble, and forecasting models
 
