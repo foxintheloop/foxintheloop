@@ -1,29 +1,46 @@
 # Derek Fox
 
-**GenAI Engineer** building production AI systems that actually ship.
+**Senior GenAI Engineer** — I build production LLM systems that survive contact with the enterprise.
 
-Currently at Deloitte designing enterprise finance agents and LLM evaluation frameworks. Previously shipped RAG systems, lead routing engines, and pricing optimization models at RevGen Partners.
+4 years shipping agentic architectures, multi-hop RAG pipelines, and evaluation frameworks at scale.
+Currently at **Deloitte** (finance AI), previously **RevGen Partners**. Actively building in public.
 
-## What I Build
+---
 
-**[ReasonForge](https://github.com/foxintheloop/ReasonForge)** - Modular mathematics toolkit for LLMs. 111 tools across 7 domain-specific MCP servers. Exact computation, zero hallucinations.
+## What I Ship
 
-**Production AI Systems** - Agentic architectures, multi-hop RAG pipelines, LLM-as-a-Judge evaluation tools. From POC to deployment.
+| Project | What it does |
+|---|---|
+| [**ReasonForge**](https://github.com/foxintheloop/ReasonForge) | Modular math toolkit for LLMs — 111 tools, 7 MCP servers, exact computation via SymPy/NumPy. Listed on [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers). |
+| [**UpTier**](https://github.com/foxintheloop/UpTier) | MCP-powered task manager that lets Claude AI prioritize your work. Desktop app with Eisenhower matrix, quick-win scoring, and goal tracking. |
+| [**DeckSnag**](https://github.com/foxintheloop/DeckSnag) | CLIP-powered slide capture — auto-detects slide transitions in video and exports to PowerPoint, PDF, or images. |
+| [**TransitGuard**](https://github.com/foxintheloop/TransitGuard) | Predictive safety intelligence for Chicago CTA. XGBoost + DBSCAN on 50K+ crime incidents with RAG chatbot interface. Northwestern MSDS capstone. |
 
-## Recent Work
+---
 
-- Built LLM-as-a-Judge evaluation framework that cut functional testing time by 90%
-- Architected finance agents on Google Gemini Agentspace
-- Developed lead routing engine combining ranking, ensemble, and forecasting models
+## Production Work
+
+- **LLM-as-a-Judge evaluation framework** - reduced functional testing time by 90% across production AI outputs
+- **Finance agents on Google Gemini Agentspace** - agentic workflows with human-in-the-loop oversight for high-stakes enterprise contexts
+- **Multi-hop RAG architecture** - multi-modal document processing on GCP (Vertex AI, Document AI), optimized for latency and cost at scale
+- **ML lead routing engine** - ranking, ensemble, classification, and forecasting models deployed across enterprise client engagements
+
+---
 
 ## Stack
 
-`Python` `LangChain` `MCP` `Azure` `AWS Bedrock` `Google Cloud` `PySpark` `Hugging Face`
+**LLM / Agents:** Python · LangChain · LlamaIndex · OpenAI APIs · Vertex AI · AWS Bedrock · MCP  
+**Infra / Data:** GCP · Azure · PySpark · SQL · Airflow  
+**ML:** Scikit-learn · XGBoost · TensorFlow · Hugging Face  
+**Tooling:** Docker · FastAPI · Streamlit · TypeScript
+
+---
 
 ## Background
 
-MS Data Science (AI specialization) — Northwestern University  
-Certifications: Azure Data Scientist, Databricks LLM, IBM Data Science
+🎓 MS Data Science (AI Specialization) - Northwestern University  
+📜 Azure Data Scientist · Databricks LLM · IBM Data Science · Professional Scrum Master  
+📍 Denver, CO
 
 ---
 
